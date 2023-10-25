@@ -1,0 +1,12 @@
+# Holzvogel Datensatz 2023 @ Kenter, Benjamin
+
+# image folders
+train: fotos/holzvogel/images/train  # 70 images
+val: fotos/holzvogel/images/val      # 30 images
+test: fotos/holzvogel/images/test    # 26 images
+
+# number of classes
+nc: 1
+
+# class names
+names: ['Holzvogel']
